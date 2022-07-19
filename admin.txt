@@ -18,6 +18,4 @@ emp9
 abcde!12
 emp10
 235@abcd
-musaab
-musaab
 
