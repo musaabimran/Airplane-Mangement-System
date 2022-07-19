@@ -1,4 +1,4 @@
-//AISHA IRFAN I20-1851 CSDF-T
+
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
